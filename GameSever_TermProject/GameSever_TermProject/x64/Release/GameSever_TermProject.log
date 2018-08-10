@@ -1,0 +1,40 @@
+﻿  main.cpp
+c:\users\ddous\desktop\gameservertermproject_final ver2\gamesever_termproject\gamesever_termproject\main.cpp(221): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\ddous\desktop\gameservertermproject_final ver2\gamesever_termproject\gamesever_termproject\main.cpp(451): warning C4244: '초기화 중': 'lua_Number'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ddous\desktop\gameservertermproject_final ver2\gamesever_termproject\gamesever_termproject\main.cpp(457): warning C4244: '초기화 중': 'lua_Number'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ddous\desktop\gameservertermproject_final ver2\gamesever_termproject\gamesever_termproject\main.cpp(498): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ddous\desktop\gameservertermproject_final ver2\gamesever_termproject\gamesever_termproject\main.cpp(466): warning C4101: 'wlen' :참조되지 않은 지역 변수입니다.
+c:\users\ddous\desktop\gameservertermproject_final ver2\gamesever_termproject\gamesever_termproject\main.cpp(698): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\users\ddous\desktop\gameservertermproject_final ver2\gamesever_termproject\gamesever_termproject\main.cpp(698): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+c:\users\ddous\desktop\gameservertermproject_final ver2\gamesever_termproject\gamesever_termproject\main.cpp(1392): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\ddous\desktop\gameservertermproject_final ver2\gamesever_termproject\gamesever_termproject\main.cpp(1416): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ddous\desktop\gameservertermproject_final ver2\gamesever_termproject\gamesever_termproject\main.cpp(1491): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\ddous\desktop\gameservertermproject_final ver2\gamesever_termproject\gamesever_termproject\main.cpp(1415): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\ddous\desktop\gameservertermproject_final ver2\gamesever_termproject\gamesever_termproject\main.cpp(1647): warning C4244: '인수': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ddous\desktop\gameservertermproject_final ver2\gamesever_termproject\gamesever_termproject\main.cpp(1671): warning C4244: '인수': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ddous\desktop\gameservertermproject_final ver2\gamesever_termproject\gamesever_termproject\main.cpp(1715): warning C4244: '인수': 'unsigned __int64'에서 'lua_Number'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ddous\desktop\gameservertermproject_final ver2\gamesever_termproject\gamesever_termproject\main.cpp(1747): warning C4838: 'unsigned __int64'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\ddous\desktop\gameservertermproject_final ver2\gamesever_termproject\gamesever_termproject\main.cpp(1747): warning C4244: '초기화 중': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ddous\desktop\gameservertermproject_final ver2\gamesever_termproject\gamesever_termproject\main.cpp(1760): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ddous\desktop\gameservertermproject_final ver2\gamesever_termproject\gamesever_termproject\main.cpp(1764): warning C4244: '인수': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ddous\desktop\gameservertermproject_final ver2\gamesever_termproject\gamesever_termproject\main.cpp(1768): warning C4838: 'unsigned __int64'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\ddous\desktop\gameservertermproject_final ver2\gamesever_termproject\gamesever_termproject\main.cpp(1768): warning C4244: '초기화 중': 'unsigned __int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ddous\desktop\gameservertermproject_final ver2\gamesever_termproject\gamesever_termproject\main.cpp(1736): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\users\ddous\desktop\gameservertermproject_final ver2\gamesever_termproject\gamesever_termproject\main.cpp(1736): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+c:\users\ddous\desktop\gameservertermproject_final ver2\gamesever_termproject\gamesever_termproject\main.cpp(1830): warning C4244: '초기화 중': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ddous\desktop\gameservertermproject_final ver2\gamesever_termproject\gamesever_termproject\main.cpp(1837): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ddous\desktop\gameservertermproject_final ver2\gamesever_termproject\gamesever_termproject\main.cpp(1903): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ddous\desktop\gameservertermproject_final ver2\gamesever_termproject\gamesever_termproject\main.cpp(1899): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\ddous\desktop\gameservertermproject_final ver2\gamesever_termproject\gamesever_termproject\main.cpp(1952): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+LINK : warning LNK4098: 'LIBCMT' defaultlib가 다른 라이브러리와 충돌합니다. /NODEFAULTLIB:library를 사용하십시오.
+  코드를 생성하고 있습니다.
+  4 of 731 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  GameSever_TermProject.vcxproj -> C:\Users\ddous\Desktop\GameServerTermProject_Final ver2\GameSever_TermProject\x64\Release\GameSever_TermProject.exe

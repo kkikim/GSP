@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\CTown">
+      <UniqueIdentifier>{7fbdc76f-ed22-4e33-92a1-6fd02d3d0044}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CPlayer">
+      <UniqueIdentifier>{85c4330e-5f17-43a8-8e72-2cacd2a535e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\COtherPlayer">
+      <UniqueIdentifier>{0a31f117-5f46-4aaf-a9e0-58343945f15d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CUI">
+      <UniqueIdentifier>{0b3db9f5-598d-4890-8de7-b13571df82cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CNPC">
+      <UniqueIdentifier>{c46b904a-543f-4293-a1dd-0aea20d80a65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CObstacle">
+      <UniqueIdentifier>{d0eefce6-d8aa-448a-aadb-86e16abd15bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CTexture">
+      <UniqueIdentifier>{9f6888d0-3c9c-4a1c-a155-7251a24b76a4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Town.cpp">
+      <Filter>소스 파일\CTown</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>소스 파일\CPlayer</Filter>
+    </ClCompile>
+    <ClCompile Include="OtherPlayer.cpp">
+      <Filter>소스 파일\COtherPlayer</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>소스 파일\CUI</Filter>
+    </ClCompile>
+    <ClCompile Include="CNPC.cpp">
+      <Filter>소스 파일\CNPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Obstacle.cpp">
+      <Filter>소스 파일\CObstacle</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>소스 파일\CTexture</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Town.h">
+      <Filter>소스 파일\CTown</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>소스 파일\CPlayer</Filter>
+    </ClInclude>
+    <ClInclude Include="OtherPlayer.h">
+      <Filter>소스 파일\COtherPlayer</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>소스 파일\CUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Define.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CNPC.h">
+      <Filter>소스 파일\CNPC</Filter>
+    </ClInclude>
+    <ClInclude Include="Obstacle.h">
+      <Filter>소스 파일\CObstacle</Filter>
+    </ClInclude>
+    <ClInclude Include="texture.h">
+      <Filter>소스 파일\CTexture</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
